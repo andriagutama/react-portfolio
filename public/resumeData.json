@@ -1,0 +1,190 @@
+{
+    "main" : {
+        "name" : "Andria Gutama",
+        "description" : "IT Manager. Full Stack Web Developer. API Integration",
+        "image" : "profilepic.jpg",
+        "bio" : "My name is Andria Gutama. I was born in August 1987. I've been working as Software Developer for 10 years and IT Manager (Development Lead) for 4 years. I have some background in Informatics especially in programming and database, with an associate degree from Politeknik Negeri Batam and bachelor degree from Universitas Maritim Raja Ali Haji.",
+        "contact_message" : "Dont hesitate to contact me",
+        "email" : "me@andriagutama.id",
+        "phone" : "555-555-555",
+        "github" : "https://github.com/andriagutama",
+        "project" : "https://github.com/andriagutama",
+        "address" : {
+            "city" : "Batam",
+            "province" : "Riau Island",
+            "zip" : "29466",
+            "country" : "Indonesia"
+        },
+        "website" : "https://andriagutama.id",
+        "resumedownload":"https://andriagutama.id",
+        "social" : [
+            {
+                "name" : "Facebook",
+                "url" : "https://www.facebook.com/andriagutama",
+                "className" : "fa fa-facebook"
+            },
+            {
+                "name" : "Instagram",
+                "url" : "https://www.instagram.com/andriagutama",
+                "className" : "fa fa-instagram"
+            },
+            {
+                "name" : "Linkedin",
+                "url" : "https://www.linkedin.com/in/andriagutama",
+                "className" : "fa fa-linkedin"
+            },
+            {
+                "name" : "Github",
+                "url" : "https://github.com/andriagutama",
+                "className" : "fa fa-github"
+            }
+        ]
+    },
+    "resume" : {
+        "skill_message" : "My Skills",
+        "education" : [
+            {
+                "school" : "Universitas Maritim Raja Ali Haji",
+                "degree" : "Bachelor Degree",
+                "year" : "2009-2011",
+                "description" : "Computer Science / Informatics"
+            },
+            {
+                "school" : "Politeknik Negeri Batam",
+                "degree" : "Associate Degree",
+                "year" : "2005-2008",
+                "description" : "Informatics"
+            },
+            {
+                "school" : "SMA Negeri 2 Tanjungpinang",
+                "degree" : "High School Diploma",
+                "year" : "2002-2005",
+                "description" : "Science"
+            }
+        ],
+        "work" : [
+            {
+                "company" : "PT Trian Data Utama",
+                "title" : "Information Technology Consultant",
+                "year" : "Apr 2023 - Present",
+                "description" : "Providing IT consultation and also software development."
+            },
+            {
+                "company" : "PT Outletz Worldwide Indonesia",
+                "title" : "Information Technology Consultant",
+                "year" : "Apr 2022 - Apr 2023",
+                "description" : "Providing IT consultation and also software development."
+            },
+            {
+                "company" : "PT Outletz Worldwide Indonesia",
+                "title" : "Information Technology Manager",
+                "year" : "Apr 2020 - Apr 2022",
+                "description" : "In my second year at Outletz.id, i was promoted as IT Manager and led 2 software developers. We developed Outletz Pro, an e-commerce platform.\n\nUsed by outletz.id as a new platform, Outletz Pro is also used by iLab in Soekarno Hatta for managing patient data and their PCR records for international departure."
+            },
+            {
+                "company" : "PT Outletz Worldwide Indonesia",
+                "title" : "Software Developer",
+                "year" : "Apr 2019 - Apr 2020",
+                "description" : "PT Outletz Worldwide Indonesia aka Outletz.id, a B2B e-commerce startup.\n\nIn Outletz, i developed WMS (Warehouse Management System) and launched FBO (Fulfilled By Outletz)."
+            },
+            {
+                "company" : "PT Citra Tubindo Tbk",
+                "title" : "Program Developer",
+                "year" : "Jul 2009 - Apr 2019",
+                "description" : "PT Citra Tubindo Tbk, a group of Vallourec, is a world class manufacturer and service provider for oilfield tubular goods for multinational oil companies in Indonesia as well as state oil companies all around the world.\n\nI worked as a Program Developer (Full Stack Developer) from 2009 until 2019. My main job is to design, develop and maintain systems to support company business activities."
+            }
+        ],
+        "skills" : [
+            {
+                "name" : "C",
+                "level" : "50%"
+            },
+            {
+                "name" : "Java",
+                "level" : "50%"
+            },
+            {
+                "name" : "PHP",
+                "level" : "90%"
+            },
+            {
+                "name" : "SQL",
+                "level" : "80%"
+            },
+            {
+                "name" : "HTML/CSS",
+                "level" : "90%"
+            },
+            {
+                "name" : "Javascript",
+                "level" : "70%"
+            },
+            {
+                "name" : "jQuery",
+                "level" : "70%"
+            },
+            {
+                "name" : "React.js",
+                "level" : "50%"
+            },
+            {
+                "name" : "Node.js",
+                "level" : "70%"
+            },
+            {
+                "name" : "Golang",
+                "level" : "70%"
+            },
+            {
+                "name" : "Linux Server",
+                "level" : "70%"
+            },
+            {
+                "name" : "AWS",
+                "level" : "70%"
+            },
+            {
+                "name" : "Data Analysis",
+                "level" : "50%"
+            },
+            {
+                "name" : "Data Visualization",
+                "level" : "50%"
+            }
+        ]
+    },
+    "portfolio" : {
+        "projects" : [
+            {
+                "title" : "Ventara.id",
+                "category" : "MLM ecommerce platform",
+                "image" : "ventara_id.jpg",
+                "url" : "https://ventara.id"
+            },
+            {
+                "title" : "Outletz Pro",
+                "category" : "B2B ecommerce platform",
+                "image" : "outletz_pro.jpg",
+                "url" : "https://outletz.id"
+            },
+            {
+                "title" : "Outletz WMS",
+                "category" : "Warehouse Management System",
+                "image" : "outletz_wms.jpg",
+                "url" : "https://wms.outletz.id"
+            },
+            {
+                "title" : "Citra Tubindo OPS",
+                "category" : "Online Puchasing System",
+                "image" : "ctbn_ops.jpg",
+                "url" : "https://ops.citratubindo.com"
+            },
+            {
+                "title" : "Citra Tubindo RENE",
+                "category" : "Online Recruitment System",
+                "image" : "ctbn_rene.jpg",
+                "url" : "https://rene.citratubindo.com"
+            }
+        ]
+    }
+}
