@@ -3,7 +3,7 @@
         "name" : "Andria Gutama",
         "description" : "IT Manager. Full Stack Web Developer. API Integration",
         "image" : "profilepic.jpg",
-        "bio" : "My name is Andria Gutama. I was born in August 1987. I've been working as Software Developer for 10 years and IT Manager (Development Lead) for 4 years. I have some background in Informatics especially in programming and database, with an associate degree from Politeknik Negeri Batam and bachelor degree from Universitas Maritim Raja Ali Haji.",
+        "bio" : "I am an experienced software engineer with a demonstrated history of working in the manufacturing and startup industry. Skilled in C, PHP, CodeIgniter, Laravel, Java, GO Languange, NodeJS, ReactJS, PostgreSQL and MySQL, REST API, API Integration, Data Analyst, Data Visualization, and IT infrastructure.\n\nI have some background in Informatics, especially in programming and database, with a bachelor's degree focused on Information Technology, and passionate about writing code, leading teams, and learning new things.",
         "contact_message" : "Dont hesitate to contact me",
         "email" : "me@andriagutama.id",
         "phone" : "555-555-555",
@@ -64,9 +64,15 @@
         ],
         "work" : [
             {
+                "company" : "Indonesia International Institute for Life-Sciences (i3L)",
+                "title" : "Information Technology Manager",
+                "year" : "Oct 2023 - Present",
+                "description" : "Indonesia International Institute for Life Sciences (i3L) is a premium life sciences higher education and research institute located in Jakarta, Indonesia.\n\ni3L’s vision is to be a leading and globally-connected interdisciplinary institution that impacts society through science and innovation.\n\nThe Head of IT is responsible for the overall IT function, develop and implement strategic plans for IT department."
+            },
+            {
                 "company" : "PT Trian Data Utama",
                 "title" : "Information Technology Consultant",
-                "year" : "Apr 2023 - Present",
+                "year" : "Apr 2023 - Oct 2023",
                 "description" : "Providing IT consultation and also software development."
             },
             {
